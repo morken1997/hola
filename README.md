@@ -13,7 +13,7 @@ vue-cli 版本：2.9.6
 # 时钟
 
 首先搞了几张数字的图片：
-![](toki.png)
+![Image text](https://raw.githubusercontent.com/morken1997/hola/master/doc-img/toki.png)
 然后获取当前时间并转换为字符串：
 
 ```javascript
@@ -37,11 +37,11 @@ function plusZ(n) {			//补零
 # 天气
 
 还是先搞了几张天气的图标：
-![](weather.png)
+![Image text](https://raw.githubusercontent.com/morken1997/hola/master/doc-img/weather.png)
 由于返回的json文件里标明了当前天气的图标，只需要把它们替换成自己想要的就好了。
 
 下面是一些模板图标，比如温度、风速、湿度等等：
-![](icon.png)
+![Image text](https://raw.githubusercontent.com/morken1997/hola/master/doc-img/icon.png)
 
 ## 获取api
 
